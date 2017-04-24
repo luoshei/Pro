@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.asdf.luo1.diyview.ScrollerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_navigator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:clickable="true"
+        android:layout_height="300dp"
+        android:id="@+id/textView4"
+        />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:clickable="true"
+
+        android:background="#f00"
+        />
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:clickable="true"
+        android:background="#f0f"
+         />
+    <TextView
+    android:text="TextView"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+        android:background="#00f"
+        android:clickable="true"
+    />
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:clickable="true"
+        android:background="#f00"
+         />
+
+
+
+</com.asdf.luo1.diyview.ScrollerLayout>

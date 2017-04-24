@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">luo2</string>
+    <string-array name="lv">
+
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+    </string-array>
+
+    <string name="isOk">isOk</string>
+</resources>

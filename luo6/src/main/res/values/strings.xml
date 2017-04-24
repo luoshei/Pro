@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">luo6</string>
+    <string-array name="my">
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+        <item>1223466</item>
+    </string-array>
+    <string-array name="sensor_type">
+        <item>PM2.5传感器</item>
+        <item>二氧化碳传感器</item>
+        <item>光照强度传感器</item>
+        <item>湿度传感器</item>
+        <item>温度传感器</item>
+    </string-array>
+    <string-array name="period_type">
+        <item>1分钟内</item>
+        <item>5分钟内</item>
+        <item>10分钟内</item>
+    </string-array>
+</resources>

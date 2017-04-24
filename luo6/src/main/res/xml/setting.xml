@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="传感器阀值设置">
+
+        <com.asdf.luo6.preference.FzPreference
+            android:dialogLayout="@layout/dialog_fzz"
+            android:key="pm25"
+            android:positiveButtonText="确定"
+            android:negativeButtonText="取消"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="pm2.5阀值设置" />
+        <com.asdf.luo6.preference.FzPreference
+            android:dialogLayout="@layout/dialog_fzz"
+            android:key="co2"
+            android:positiveButtonText="确定"
+            android:negativeButtonText="取消"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="二氧化碳阀值设置" />
+        <com.asdf.luo6.preference.FzPreference
+            android:dialogLayout="@layout/dialog_fzz"
+            android:key="light"
+            android:positiveButtonText="确定"
+            android:negativeButtonText="取消"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="光照强度阀值设置" />
+        <com.asdf.luo6.preference.FzPreference
+            android:dialogLayout="@layout/dialog_fzz"
+            android:key="humi"
+            android:positiveButtonText="确定"
+            android:negativeButtonText="取消"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="环境湿度阀值设置" />
+        <com.asdf.luo6.preference.FzPreference
+            android:dialogLayout="@layout/dialog_fzz"
+            android:key="temp"
+            android:positiveButtonText="确定"
+            android:negativeButtonText="取消"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="环境温度阀值设置" />
+    </PreferenceCategory>
+</PreferenceScreen>
